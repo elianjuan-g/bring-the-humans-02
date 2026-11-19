@@ -150,6 +150,8 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 If this guide helped, signing up through [my link](https://make.fun/r/fgc24afq) (code `fgc24afq`) is a nice way to say thanks.
 
+> **Sharing tip for this bounty:** because the score is verified signups, put the link where people who build with AI agents already hang out — a repo README, a short post about what you built, a community channel — and say plainly what make.fun is. Bought or bot signups are filtered out and do not count, so only real people who join and take part move the score.
+
 ## Questions
 
 <details>
